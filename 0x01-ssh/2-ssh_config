@@ -1,5 +1,0 @@
-#Any host has the key can connect to the server
-Host *
-IdentityFile ~/.ssh/holberton
-PasswordAuthentication no
-PubkeyAuthentication yes
